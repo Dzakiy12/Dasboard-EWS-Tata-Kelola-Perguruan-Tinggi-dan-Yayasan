@@ -1,0 +1,4 @@
+ews.db
+__pycache__/
+.streamlit/secrets.toml
+.venv/
