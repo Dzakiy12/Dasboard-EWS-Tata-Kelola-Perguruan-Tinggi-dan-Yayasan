@@ -8,7 +8,7 @@ from schema import TABLES, ORDER, FKS, REQUIRED
 
 BASE = Path(__file__).parent
 DB_PATH = BASE / "ews.db"
-SEED = BASE / "data" / "Data_Sintetis_50_Yayasan.xlsx"
+SEED = BASE / "Data_Sintetis_50_Yayasan.xlsx"
 
 
 def conn():
