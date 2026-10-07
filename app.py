@@ -4,6 +4,7 @@ import pandas as pd
 import streamlit as st
 import auth
 import sqlite3
+import hashlib
 import db
 import rules
 import halaman
